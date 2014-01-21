@@ -1,4 +1,4 @@
-"""Scenario - a tool for automating various scenarios
+"""Scenario - a tool for declaring various scenarios
 Copyleft 2014 Antoine d'Otreppe <a.dotreppe@aspyct.org>
 
 Available in the public domain. Feel free to do anything.
